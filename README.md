@@ -21,7 +21,7 @@ This repository contains a simple two-layer neural network for handwritten digit
 # Run the main script:
 
 ```
-python MNSIT_Neural_Network_Scratch.py
+python MNSIT_Neural_network_scratch.py
 
 ```
 
